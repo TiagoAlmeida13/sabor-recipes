@@ -5,11 +5,11 @@ export type Meal = {
   strArea: string;
   strInstructions: string;
   strMealThumb: string;
-  [key: `strIngredient${number}`]: string | undefined;
-  [key: `strMeasure${number}`]: string | undefined;
-};
+} & Record<string, string | undefined>;
 
-export type MealSummary = Pick
-  Meal,
-  "idMeal" | "strMeal" | "strCategory" | "strMealThumb"
->;
+export type MealSummary = {
+  idMeal: string;
+  strMeal: string;
+  strCategory: string;
+  strMealThumb: string;
+};
