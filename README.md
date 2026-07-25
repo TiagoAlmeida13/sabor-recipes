@@ -21,10 +21,6 @@
 
 O foco não foi só estilizar uma busca, mas reproduzir o fluxo real de uma aplicação de dados: requisição, carregamento, ausência de resultados, erro de rede e detalhe sob demanda — tudo com feedback visual claro para quem usa.
 
-## Preview
-
-![Preview do buscador de receitas Sabor](<img width="1792" height="878" alt="image" src="https://github.com/user-attachments/assets/990b6e24-ca6d-460e-b72c-92a232036c48" />
-)
 
 ## Funcionalidades
 
