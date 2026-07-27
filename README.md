@@ -21,6 +21,9 @@
 
 O foco não foi só estilizar uma busca, mas reproduzir o fluxo real de uma aplicação de dados: requisição, carregamento, ausência de resultados, erro de rede e detalhe sob demanda — tudo com feedback visual claro para quem usa.
 
+## Preview
+
+![Preview do buscador de receitas Sabor](https://api.microlink.io/?url=https://sabor-recipes-sable.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=800)
 
 ## Funcionalidades
 
